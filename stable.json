@@ -2,18 +2,18 @@
   "app": {
     "version": "7.5.1.1",
     "versionCode": "292",
-    "link": "https://github.com/flamel7ramond/magiks/blob/main/app-debug.apk"
+    "link": "https://github.com/flamel7ramond/magiks/raw/main/app-debug.apk"
   },
   "uninstaller": {
-    "link": "https://github.com/flamel7ramond/magiks/blob/main/magisk-uninstaller.zip"
+    "link": "https://github.com/flamel7ramond/magiks/raw/main/magisk-uninstaller.zip"
   },
   "magisk": {
     "version": "20.41",
     "versionCode": "20430",
-    "link": "https://github.com/flamel7ramond/magiks/blob/main/magisk-debug.zip"
+    "link": "https://github.com/flamel7ramond/magiks/raw/main/magisk-debug.zip"
   },
   "stub": {
     "versionCode": "10",
-    "link": "https://github.com/flamel7ramond/magiks/blob/main/stub-debug.apk"
+    "link": "https://github.com/flamel7ramond/magiks/raw/main/stub-debug.apk"
   }
 }
