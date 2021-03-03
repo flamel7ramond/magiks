@@ -1,4 +1,4 @@
-name: Test converting
+name: Converting
 
 on: [push]
 
