@@ -1,0 +1,19 @@
+{
+  "app": {
+    "version": "7.5.1.1",
+    "versionCode": "292",
+    "link": "ftp://nwph.asuscomm.com/Main/media/MG7e/app-debug.apk"
+  },
+  "uninstaller": {
+    "link": "ftp://nwph.asuscomm.com/Main/media/MG7e/magisk-uninstaller.zip"
+  },
+  "magisk": {
+    "version": "20.41",
+    "versionCode": "20430",
+    "link": "ftp://nwph.asuscomm.com/Main/media/MG7e/magisk-debug.zip"
+  },
+  "stub": {
+    "versionCode": "10",
+    "link": "ftp://nwph.asuscomm.com/Main/media/MG7e/stub-debug.apk"
+  }
+}
